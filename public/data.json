@@ -1,0 +1,530 @@
+[
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Emily Johnson",
+        "education": "DMD, University of Dental Science",
+        "bio": "Dr. Emily Johnson is a compassionate dentist with a focus on providing gentle and personalized care to her patients. She has a keen interest in preventive dentistry and oral health education.",
+        "awards": ["Outstanding Achievement in Pediatric Dentistry", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Orthodontics"],
+        "specializations": ["Children Care", "Orthodontist"],
+        "location": "456 Oak Avenue, Townsville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Johnson is fantastic with kids. My children love visiting her."},
+            {"rating": 4, "comment": "Great experience getting my teeth cleaned by Dr. Johnson."},
+            {"rating": 5, "comment": "Dr. Johnson explained the orthodontic treatment process clearly. Highly recommended."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Michael Davis",
+        "education": "DDS, University of Dental Medicine",
+        "bio": "Dr. Michael Davis has been practicing dentistry for over 15 years. He is committed to providing comprehensive dental care to patients of all ages. Dr. Davis has a gentle approach that puts his patients at ease.",
+        "awards": ["Excellence in Cosmetic Dentistry", "Community Service Award"],
+        "services": ["Tooth Cleaning", "Root Canal Therapy", "Implants"],
+        "specializations": ["Dental Care", "Prosthodontics"],
+        "location": "789 Elm Street, Citytown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Davis did an amazing job with my dental implants. Highly skilled and professional."},
+            {"rating": 4, "comment": "Great experience during my root canal treatment with Dr. Davis."},
+            {"rating": 5, "comment": "Excellent dental care and friendly staff at Dr. Davis' practice."}
+        ],
+        "business_hours": {
+            "Monday": "8:30 AM - 5:30 PM",
+            "Tuesday": "8:30 AM - 5:30 PM",
+            "Wednesday": "8:30 AM - 5:30 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:30 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Sarah Thompson",
+        "education": "DDS, University of Dental Medicine",
+        "bio": "Dr. Sarah Thompson is dedicated to providing personalized dental care in a comfortable and relaxed environment. She believes in keeping up with the latest advancements in dentistry to ensure the best outcomes for her patients.",
+        "awards": ["Best Dentist of the Year", "Excellence in Restorative Dentistry"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Periodontal Therapy"],
+        "specializations": ["Periodontist", "Prosthodontics"],
+        "location": "321 Pine Street, Villagetown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Thompson's expertise in periodontal therapy made a significant difference in my oral health."},
+            {"rating": 4, "comment": "Had a successful surgical extraction with Dr. Thompson. Professional and caring approach."},
+            {"rating": 5, "comment": "Highly recommend Dr. Thompson for her exceptional dental skills and patient care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Andrew Wilson",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Andrew Wilson is a highly skilled and experienced dentist with a passion for cosmetic dentistry. He takes pride in creating beautiful and natural-looking smiles for his patients.",
+        "awards": ["Achievement in Cosmetic Dentistry", "Best Smile Makeover Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Dental Implants"],
+        "specializations": ["Cosmetic Dentistry", "Prosthodontics"],
+        "location": "567 Maple Avenue, Denton",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Wilson transformed my smile with composite bonding. I couldn't be happier!"},
+            {"rating": 4, "comment": "Great dental experience with Dr. Wilson. He explains the treatment process thoroughly."},
+            {"rating": 5, "comment": "Highly skilled and professional dentist. I recommend Dr. Wilson for cosmetic dentistry."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Jessica Lee",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Jessica Lee is a caring and detail-oriented dentist who strives to provide the best possible dental care to her patients. She is known for her gentle approach and patient-centered treatment plans.",
+        "awards": ["Excellence in Family Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Root Canal Therapy", "Orthodontics"],
+        "specializations": ["Dental Care", "Orthodontist"],
+        "location": "789 Cedar Street, Hamletown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Lee is great with kids. My children feel comfortable during their dental visits."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Lee during my root canal treatment."},
+            {"rating": 5, "comment": "I highly recommend Dr. Lee for her excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "9:30 AM - 6:30 PM",
+            "Tuesday": "9:30 AM - 6:30 PM",
+            "Wednesday": "9:30 AM - 6:30 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:30 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Benjamin Garcia",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Benjamin Garcia is a dedicated dentist who is passionate about providing comprehensive dental care to his patients. He believes in building long-lasting relationships based on trust and open communication.",
+        "awards": ["Excellence in General Dentistry", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Dental Implants"],
+        "specializations": ["General Dentistry", "Prosthodontics"],
+        "location": "234 Birch Road, Dentville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Garcia did an amazing job with my dental implants. I'm very satisfied with the results."},
+            {"rating": 4, "comment": "Had a great experience with Dr. Garcia. He explained the composite bonding process well."},
+            {"rating": 5, "comment": "Dr. Garcia and his team provide exceptional dental care. Highly recommended."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 5:00 PM",
+            "Tuesday": "8:00 AM - 5:00 PM",
+            "Wednesday": "8:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Olivia Anderson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Olivia Anderson is a skilled and compassionate dentist dedicated to providing quality dental care to her patients. She takes the time to understand their unique needs and concerns.",
+        "awards": ["Excellence in Oral Surgery", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Dental Implants"],
+        "specializations": ["Oral and Maxillofacial Surgery", "Prosthodontics"],
+        "location": "345 Willow Avenue, Smilesville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Anderson is an excellent oral surgeon. I had a successful extraction with minimal discomfort."},
+            {"rating": 4, "comment": "Great experience with Dr. Anderson during my dental implant procedure."},
+            {"rating": 5, "comment": "Highly skilled dentist. Dr. Anderson and her team provide top-notch care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Samuel Martinez",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Samuel Martinez is a dedicated dentist with a focus on providing comprehensive dental care. He believes in the importance of patient education and empowering individuals to take control of their oral health.",
+        "awards": ["Excellence in Preventive Dentistry", "Community Service Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Root Canal Therapy"],
+        "specializations": ["Dental Care", "Endodontics"],
+        "location": "567 Oakwood Drive, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Martinez is thorough and knowledgeable. He explained the root canal procedure well."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Martinez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Martinez for his excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "8:30 AM - 5:30 PM",
+            "Tuesday": "8:30 AM - 5:30 PM",
+            "Wednesday": "8:30 AM - 5:30 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:30 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Sophia Ramirez",
+        "education": "DDS, University of Dental Medicine",
+        "bio": "Dr. Sophia Ramirez is a compassionate dentist who believes in providing personalized care to her patients. She is dedicated to helping individuals achieve optimal oral health and a confident smile.",
+        "awards": ["Excellence in Cosmetic Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Orthodontics"],
+        "specializations": ["Cosmetic Dentistry", "Orthodontist"],
+        "location": "789 Maple Street, Smiletown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Ramirez did a fantastic job with my orthodontic treatment. I'm thrilled with the results."},
+            {"rating": 4, "comment": "Great experience with Dr. Ramirez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Ramirez for her exceptional dental skills and patient care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ethan Cooper",
+        "education": "DMD, University of Dental Science",
+        "bio": "Dr. Ethan Cooper is a dedicated dentist who is passionate about providing comprehensive dental care to his patients. He believes in building strong relationships based on trust and open communication.",
+        "awards": ["Excellence in General Dentistry", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Root Canal Therapy", "Implants"],
+        "specializations": ["General Dentistry", "Prosthodontics"],
+        "location": "123 Cedar Road, Dentville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Cooper did an amazing job with my dental implants. Highly skilled and professional."},
+            {"rating": 4, "comment": "Great experience during my root canal treatment with Dr. Cooper."},
+            {"rating": 5, "comment": "Excellent dental care and friendly staff at Dr. Cooper's practice."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 5:00 PM",
+            "Tuesday": "8:00 AM - 5:00 PM",
+            "Wednesday": "8:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ava Johnson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Ava Johnson is a compassionate and skilled dentist dedicated to providing quality dental care to her patients. She believes in the importance of patient comfort and strives to create a relaxing environment.",
+        "awards": ["Excellence in Family Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Orthodontics"],
+        "specializations": ["Dental Care", "Orthodontist"],
+        "location": "345 Pine Street, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Johnson is great with kids. My children feel comfortable during their dental visits."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Johnson during my surgical extraction."},
+            {"rating": 5, "comment": "I highly recommend Dr. Johnson for her excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "9:30 AM - 6:30 PM",
+            "Tuesday": "9:30 AM - 6:30 PM",
+            "Wednesday": "9:30 AM - 6:30 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:30 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Jackson Williams",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Jackson Williams is a highly skilled dentist with a passion for cosmetic dentistry. He takes pride in helping his patients achieve the smiles they've always dreamed of.",
+        "awards": ["Achievement in Cosmetic Dentistry", "Best Smile Makeover Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Dental Implants"],
+        "specializations": ["Cosmetic Dentistry", "Prosthodontics"],
+        "location": "567 Oak Avenue, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Williams transformed my smile with composite bonding. I couldn't be happier!"},
+            {"rating": 4, "comment": "Great dental experience with Dr. Williams. He explains the treatment process thoroughly."},
+            {"rating": 5, "comment": "Highly skilled and professional dentist. I recommend Dr. Williams for cosmetic dentistry."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Olivia Anderson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Olivia Anderson is a skilled and compassionate dentist dedicated to providing quality dental care to her patients. She takes the time to understand their unique needs and concerns.",
+        "awards": ["Excellence in Oral Surgery", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Dental Implants"],
+        "specializations": ["Oral and Maxillofacial Surgery", "Prosthodontics"],
+        "location": "345 Willow Avenue, Smilesville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Anderson is an excellent oral surgeon. I had a successful extraction with minimal discomfort."},
+            {"rating": 4, "comment": "Great experience with Dr. Anderson during my dental implant procedure."},
+            {"rating": 5, "comment": "Highly skilled dentist. Dr. Anderson and her team provide top-notch care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Samuel Martinez",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Samuel Martinez is a dedicated dentist with a focus on providing comprehensive dental care. He believes in the importance of patient education and empowering individuals to take control of their oral health.",
+        "awards": ["Excellence in Preventive Dentistry", "Community Service Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Root Canal Therapy"],
+        "specializations": ["Dental Care", "Endodontics"],
+        "location": "567 Oakwood Drive, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Martinez is thorough and knowledgeable. He explained the root canal procedure well."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Martinez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Martinez for his excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "8:30 AM - 5:30 PM",
+            "Tuesday": "8:30 AM - 5:30 PM",
+            "Wednesday": "8:30 AM - 5:30 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:30 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Sophia Ramirez",
+        "education": "DDS, University of Dental Medicine",
+        "bio": "Dr. Sophia Ramirez is a compassionate dentist who believes in providing personalized care to her patients. She is dedicated to helping individuals achieve optimal oral health and a confident smile.",
+        "awards": ["Excellence in Cosmetic Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Orthodontics"],
+        "specializations": ["Cosmetic Dentistry", "Orthodontist"],
+        "location": "789 Maple Street, Smiletown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Ramirez did a fantastic job with my orthodontic treatment. I'm thrilled with the results."},
+            {"rating": 4, "comment": "Great experience with Dr. Ramirez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Ramirez for her exceptional dental skills and patient care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ethan Cooper",
+        "education": "DMD, University of Dental Science",
+        "bio": "Dr. Ethan Cooper is a dedicated dentist who is passionate about providing comprehensive dental care to his patients. He believes in building strong relationships based on trust and open communication.",
+        "awards": ["Excellence in General Dentistry", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Root Canal Therapy", "Implants"],
+        "specializations": ["General Dentistry", "Prosthodontics"],
+        "location": "123 Cedar Road, Dentville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Cooper did an amazing job with my dental implants. Highly skilled and professional."},
+            {"rating": 4, "comment": "Great experience during my root canal treatment with Dr. Cooper."},
+            {"rating": 5, "comment": "Excellent dental care and friendly staff at Dr. Cooper's practice."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 5:00 PM",
+            "Tuesday": "8:00 AM - 5:00 PM",
+            "Wednesday": "8:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ava Johnson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Ava Johnson is a compassionate and skilled dentist dedicated to providing quality dental care to her patients. She believes in the importance of patient comfort and strives to create a relaxing environment.",
+        "awards": ["Excellence in Family Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Orthodontics"],
+        "specializations": ["Dental Care", "Orthodontist"],
+        "location": "345 Pine Street, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Johnson is great with kids. My children feel comfortable during their dental visits."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Johnson during my surgical extraction."},
+            {"rating": 5, "comment": "I highly recommend Dr. Johnson for her excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "9:30 AM - 6:30 PM",
+            "Tuesday": "9:30 AM - 6:30 PM",
+            "Wednesday": "9:30 AM - 6:30 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:30 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Jackson Williams",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Jackson Williams is a highly skilled dentist with a passion for cosmetic dentistry. He takes pride in helping his patients achieve the smiles they've always dreamed of.",
+        "awards": ["Achievement in Cosmetic Dentistry", "Best Smile Makeover Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Dental Implants"],
+        "specializations": ["Cosmetic Dentistry", "Prosthodontics"],
+        "location": "567 Oak Avenue, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Williams transformed my smile with composite bonding. I couldn't be happier!"},
+            {"rating": 4, "comment": "Great dental experience with Dr. Williams. He explains the treatment process thoroughly."},
+            {"rating": 5, "comment": "Highly skilled and professional dentist. I recommend Dr. Williams for cosmetic dentistry."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Olivia Anderson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Olivia Anderson is a skilled and compassionate dentist dedicated to providing quality dental care to her patients. She takes the time to understand their unique needs and concerns.",
+        "awards": ["Excellence in Oral Surgery", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Dental Implants"],
+        "specializations": ["Oral and Maxillofacial Surgery", "Prosthodontics"],
+        "location": "345 Willow Avenue, Smilesville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Anderson is an excellent oral surgeon. I had a successful extraction with minimal discomfort."},
+            {"rating": 4, "comment": "Great experience with Dr. Anderson during my dental implant procedure."},
+            {"rating": 5, "comment": "Highly skilled dentist. Dr. Anderson and her team provide top-notch care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 6:00 PM",
+            "Tuesday": "9:00 AM - 6:00 PM",
+            "Wednesday": "9:00 AM - 6:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Samuel Martinez",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Samuel Martinez is a dedicated dentist with a focus on providing comprehensive dental care. He believes in the importance of patient education and empowering individuals to take control of their oral health.",
+        "awards": ["Excellence in Preventive Dentistry", "Community Service Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Root Canal Therapy"],
+        "specializations": ["Dental Care", "Endodontics"],
+        "location": "567 Oakwood Drive, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Martinez is thorough and knowledgeable. He explained the root canal procedure well."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Martinez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Martinez for his excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "8:30 AM - 5:30 PM",
+            "Tuesday": "8:30 AM - 5:30 PM",
+            "Wednesday": "8:30 AM - 5:30 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:30 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Sophia Ramirez",
+        "education": "DDS, University of Dental Medicine",
+        "bio": "Dr. Sophia Ramirez is a compassionate dentist who believes in providing personalized care to her patients. She is dedicated to helping individuals achieve optimal oral health and a confident smile.",
+        "awards": ["Excellence in Cosmetic Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Orthodontics"],
+        "specializations": ["Cosmetic Dentistry", "Orthodontist"],
+        "location": "789 Maple Street, Smiletown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Ramirez did a fantastic job with my orthodontic treatment. I'm thrilled with the results."},
+            {"rating": 4, "comment": "Great experience with Dr. Ramirez during my dental cleaning."},
+            {"rating": 5, "comment": "I highly recommend Dr. Ramirez for her exceptional dental skills and patient care."}
+        ],
+        "business_hours": {
+            "Monday": "9:00 AM - 5:00 PM",
+            "Tuesday": "9:00 AM - 5:00 PM",
+            "Wednesday": "9:00 AM - 5:00 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:00 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ethan Cooper",
+        "education": "DMD, University of Dental Science",
+        "bio": "Dr. Ethan Cooper is a dedicated dentist who is passionate about providing comprehensive dental care to his patients. He believes in building strong relationships based on trust and open communication.",
+        "awards": ["Excellence in General Dentistry", "Best Patient Care Award"],
+        "services": ["Tooth Cleaning", "Root Canal Therapy", "Implants"],
+        "specializations": ["General Dentistry", "Prosthodontics"],
+        "location": "123 Cedar Road, Dentville",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Cooper did an amazing job with my dental implants. Highly skilled and professional."},
+            {"rating": 4, "comment": "Great experience during my root canal treatment with Dr. Cooper."},
+            {"rating": 5, "comment": "Excellent dental care and friendly staff at Dr. Cooper's practice."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 5:00 PM",
+            "Tuesday": "8:00 AM - 5:00 PM",
+            "Wednesday": "8:00 AM - 5:00 PM",
+            "Thursday": "10:00 AM - 7:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Ava Johnson",
+        "education": "DMD, University of Dental Medicine",
+        "bio": "Dr. Ava Johnson is a compassionate and skilled dentist dedicated to providing quality dental care to her patients. She believes in the importance of patient comfort and strives to create a relaxing environment.",
+        "awards": ["Excellence in Family Dentistry", "Outstanding Patient Care Award"],
+        "services": ["Tooth Cleaning", "Surgical Extractions", "Orthodontics"],
+        "specializations": ["Dental Care", "Orthodontist"],
+        "location": "345 Pine Street, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Johnson is great with kids. My children feel comfortable during their dental visits."},
+            {"rating": 4, "comment": "Had a positive experience with Dr. Johnson during my surgical extraction."},
+            {"rating": 5, "comment": "I highly recommend Dr. Johnson for her excellent dental care and professionalism."}
+        ],
+        "business_hours": {
+            "Monday": "9:30 AM - 6:30 PM",
+            "Tuesday": "9:30 AM - 6:30 PM",
+            "Wednesday": "9:30 AM - 6:30 PM",
+            "Thursday": "11:00 AM - 8:00 PM",
+            "Friday": "9:30 AM - 3:00 PM"
+        }
+    },
+    {
+        "img" : "https://images.unsplash.com/photo-1612531386530-97286d97c2d2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "name": "Dr. Jackson Williams",
+        "education": "DDS, University of Dental Science",
+        "bio": "Dr. Jackson Williams is a highly skilled dentist with a passion for cosmetic dentistry. He takes pride in helping his patients achieve the smiles they've always dreamed of.",
+        "awards": ["Achievement in Cosmetic Dentistry", "Best Smile Makeover Award"],
+        "services": ["Tooth Cleaning", "Composite Bonding", "Dental Implants"],
+        "specializations": ["Cosmetic Dentistry", "Prosthodontics"],
+        "location": "567 Oak Avenue, Dentontown",
+        "reviews": [
+            {"rating": 5, "comment": "Dr. Williams transformed my smile with composite bonding. I couldn't be happier!"},
+            {"rating": 4, "comment": "Great dental experience with Dr. Williams. He explains the treatment process thoroughly."},
+            {"rating": 5, "comment": "Highly skilled and professional dentist. I recommend Dr. Williams for cosmetic dentistry."}
+        ],
+        "business_hours": {
+            "Monday": "8:00 AM - 4:00 PM",
+            "Tuesday": "8:00 AM - 4:00 PM",
+            "Wednesday": "8:00 AM - 4:00 PM",
+            "Thursday": "10:00 AM - 6:00 PM",
+            "Friday": "8:00 AM - 2:00 PM"
+        }
+    }
+]
